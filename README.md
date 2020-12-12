@@ -1,5 +1,6 @@
-# Data-Science UA 2020: NLP using Transfer Learning
+# Deep Learning for NLP with PyTorch
 
-* Speaker
+* Instructors
+  - Yash A. Shroff
   - Ravi Ilango
 
